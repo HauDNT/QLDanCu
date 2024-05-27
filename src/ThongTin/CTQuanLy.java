@@ -10,7 +10,7 @@ public class CTQuanLy {
         HoGiaDinh HoGDMoi = new HoGiaDinh();
         KhuPho KP = new KhuPho();
 
-        System.out.print("-Hay nhap so ho gia dinh muon tao thong tin: ");
+        System.out.print("-Hay nhap so ho gia dinh muon tao thong tin: 1234");
         int soHoGD = Integer.parseInt(sc.nextLine());
 
         for (int i = 0; i < soHoGD; i++) {
